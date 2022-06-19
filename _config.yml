@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Doge_Mom
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Doge_Mom Art"
+url: "https://d0ge-m0m.github.io"
+baseurl: "/Doge_Mom"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://d0ge-m0m.github.io/Doge_Mom/gallery/"  
+  - JOURNAL: "https://d0ge-m0m.github.io/Doge_Mom/journal/"
+  - ABOUT: "https://d0ge-m0m.github.io/Doge_Mom/about/"
 
 # All translation keys
 translations:
