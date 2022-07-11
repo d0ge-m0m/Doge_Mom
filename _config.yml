@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://d0ge-m0m.github.io/Doge_Mom/gallery/"  
-  - JOURNAL: "https://d0ge-m0m.github.io/Doge_Mom/journal/"
+  - NFT: "https://d0ge-m0m.github.io/Doge_Mom/NFT/"
   - ABOUT: "https://d0ge-m0m.github.io/Doge_Mom/about/"
 
 # All translation keys
@@ -52,10 +52,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+paginate_path: "/NFT/page:num/"
+permalink: "/NFT/:title/"
+categories_path: "/NFT/category/"
+tags_path: "/NFT/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
