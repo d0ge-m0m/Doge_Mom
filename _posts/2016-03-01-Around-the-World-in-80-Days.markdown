@@ -2,7 +2,7 @@
 layout:     post
 title:      "Around the World in 80 Days"
 subtitle:   "Jules Verne"
-active: nft
+active: journal
 image:
   feature: "pc006.jpg"
 date:       2016-03-01 
